@@ -1,0 +1,11 @@
+/home/clay/catkin_ws/install/_setup_util.py
+/home/clay/catkin_ws/install/env.sh
+/home/clay/catkin_ws/install/setup.bash
+/home/clay/catkin_ws/install/setup.sh
+/home/clay/catkin_ws/install/setup.zsh
+/home/clay/catkin_ws/install/.rosinstall
+/home/clay/catkin_ws/install/share/beginner_tutorials/srv/AddTwoInts.srv
+/home/clay/catkin_ws/install/lib/pkgconfig/beginner_tutorials.pc
+/home/clay/catkin_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig.cmake
+/home/clay/catkin_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig-version.cmake
+/home/clay/catkin_ws/install/share/beginner_tutorials/package.xml
